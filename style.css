@@ -1,0 +1,115 @@
+.bayan-body {
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header {
+  color: black;
+}
+body {
+  border: 1px solid rgb(211, 37, 37);
+  font-weight: bold;
+  cursor: pointer; /*cursor: progress;.mycursor {
+    cursor: url("myimage.png"), pointer;	
+    }*/
+}
+body:hover {
+  background: #aaaaaa;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-timing-function: ease;
+  background-color: bisque;
+  color: black;
+}
+div.drop-menu ul ul {
+  display: none;
+}
+.bayan-foto {
+  justify-content: center;
+  padding-left: 0;
+  margin-left: 0;
+}
+.name_mem {
+  color: blue;
+}
+.name_mem:hover {
+  color: rgb(36, 30, 30);
+}
+.copy_paste_plus {
+  margin-left: 1.6%;
+  opacity: 1;
+}
+.copy_paste_x {
+  opacity: 0;
+}
+.copy_paste:hover .copy_paste_plus {
+  opacity: 0;
+}
+.copy_paste:hover .copy_paste_x {
+  opacity: 1;
+}
+.work_life_plus {
+  margin-left: 33%;
+  opacity: 1;
+}
+.work_life_x {
+  opacity: 0;
+}
+.work_life:hover .work_life_plus {
+  opacity: 0;
+}
+.work_life:hover .work_life_x {
+  opacity: 1;
+}
+.keep_calm_x {
+  opacity: 0;
+}
+.keep_calm_plus {
+  margin-left: 27%;
+}
+.keep_calm:hover .keep_calm_plus {
+  opacity: 0;
+}
+.keep_calm:hover .keep_calm_x {
+  opacity: 1;
+}
+.dude_plus {
+  margin-left: 41%;
+  opacity: 1;
+}
+.dude_x {
+  opacity: 0;
+}
+.dude:hover .dude_plus {
+  opacity: 0;
+}
+.dude:hover .dude_x {
+  opacity: 1;
+}
+.relax_plus {
+  margin-left: 33%;
+  opacity: 1;
+}
+.relax_x {
+  opacity: 0;
+}
+.relax:hover .relax_plus {
+  opacity: 0;
+}
+.relax:hover .relax_x {
+  opacity: 1;
+}
+body:hover .bayan-foto {
+  border: 2px solid #333;
+}
+.bayan-foto {
+  cursor: pointer;
+}
+.header {
+  margin-left: 10%;
+  color: black;
+}
+
+div.drop-menu li:hover > ul {
+  display: block;
+}
