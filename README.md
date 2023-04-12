@@ -1,1 +1,1 @@
-[create Bayan] (https://timurlagawy.github.io/cssBayan1/)
+[create Bayan](https://timurlagawy.github.io/cssBayan1/)
