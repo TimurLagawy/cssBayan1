@@ -35,6 +35,9 @@ div.drop-menu ul ul {
 .name_mem:hover {
   color: rgb(36, 30, 30);
 }
+.mem_copy_paste {
+  justify-content: space-between;
+}
 .copy_paste_plus {
   margin-left: 1.6%;
   opacity: 1;
