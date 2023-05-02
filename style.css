@@ -1,6 +1,3 @@
-li {
-  list-style: none;
-}
 .bayan-body {
   max-width: 30%;
   margin-left: auto;
@@ -28,7 +25,6 @@ div.drop-menu ul ul {
   display: none;
 }
 .bayan-foto {
-  display: block;
   justify-content: center;
   padding-left: 0;
   margin-left: 0;
@@ -38,9 +34,6 @@ div.drop-menu ul ul {
 }
 .name_mem:hover {
   color: rgb(36, 30, 30);
-}
-.mem_copy_paste {
-  justify-content: space-between;
 }
 .copy_paste_plus {
   margin-left: 1.6%;
