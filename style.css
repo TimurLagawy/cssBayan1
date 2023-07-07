@@ -53,16 +53,19 @@ div.drop-menu ul ul {
   opacity: 1;
 }
 .work_life_x,
-.keep_calm_x {
+.keep_calm_x,
+.dude_x,
+.relax_x {
   opacity: 0;
 }
-.work_life:hover .work_life_plus {
+.work_life:hover .work_life_plus,
+.dude:hover .dude_plus,
+.keep_calm:hover .keep_calm_plus {
   opacity: 0;
 }
 
 .work_life:hover .work_life_x,
-.keep_calm:hover .keep_calm_x,
-.dude:hover .dude_plus {
+.keep_calm:hover .keep_calm_x {
   opacity: 1;
 }
 
@@ -70,17 +73,9 @@ div.drop-menu ul ul {
   margin-left: 27%;
 }
 
-.keep_calm:hover .keep_calm_plus {
-  opacity: 0;
-}
-
 .dude_plus {
   margin-left: 41%;
   opacity: 1;
-}
-.dude_x,
-.relax_x {
-  opacity: 0;
 }
 
 .dude:hover .dude_x {
