@@ -65,7 +65,8 @@ div.drop-menu ul ul {
 }
 
 .work_life:hover .work_life_x,
-.keep_calm:hover .keep_calm_x {
+.keep_calm:hover .keep_calm_x,
+.dude:hover .dude_x {
   opacity: 1;
 }
 
@@ -78,9 +79,6 @@ div.drop-menu ul ul {
   opacity: 1;
 }
 
-.dude:hover .dude_x {
-  opacity: 1;
-}
 .relax_plus {
   margin-left: 33%;
   opacity: 1;
